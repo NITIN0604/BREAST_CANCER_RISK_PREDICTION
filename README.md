@@ -106,17 +106,6 @@ Metrics used:
 
 ---
 
-## 📂 Folder Structure  
-
-Breast_Cancer_Risk_Prediction/
-│
-├── Breast Cancer METABRIC.csv
-├── Breast Cancer Risk Prediction - R NITIN.ipynb
-├── Breast Cancer Risk prediction - R NITIN.pptx
-├── README.md
-└── requirements.txt
----
-
 ## 👨‍💻 Author  
 **R. Nitin**  
 📧 Email: rnitin0604@gmail.com  
