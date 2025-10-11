@@ -109,7 +109,7 @@ Metrics used:
 ## 👨‍💻 Author  
 **R. Nitin**  
 📧 Email: rnitin0604@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/yourusername](https://www.linkedin.com/in/nitin0604/)
+🔗 LinkedIn: [https://www.linkedin.com/nitin0604](https://www.linkedin.com/in/nitin0604/)
 
 ---
 
