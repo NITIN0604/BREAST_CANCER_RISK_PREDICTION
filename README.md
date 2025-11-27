@@ -98,7 +98,7 @@ Metrics used:
 ---
 
 ## 🧩 Tools & Technologies  
-- **Language:** Python 3.x  
+- **Language:** Python 3.12.5  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Environment:** Jupyter Notebook  
 - **Visualization:** PowerPoint, Matplotlib  
